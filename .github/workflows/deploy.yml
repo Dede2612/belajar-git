@@ -24,7 +24,7 @@ jobs:
             fi
 
             if [ ! -d "/var/www/html/cicd/2305033" ]; then
-              mkdir -p /var/www/html/cicd/n2305033
+              mkdir -p /var/www/html/cicd/2305033
             fi
 
             cd /var/www/html/cicd/2305033
